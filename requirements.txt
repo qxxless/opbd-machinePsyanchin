@@ -1,0 +1,17 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.5
+lightgbm>=4.5
+matplotlib>=3.9
+seaborn>=0.13
+joblib>=1.4
+jupyter>=1.1
+ipykernel>=6.29
+fastapi>=0.115
+uvicorn[standard]>=0.30
+streamlit>=1.38
+sqlalchemy>=2.0
+pymysql>=1.1
+python-dotenv>=1.0
+requests>=2.32
