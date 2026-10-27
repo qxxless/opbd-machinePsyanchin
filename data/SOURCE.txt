@@ -1,0 +1,7 @@
+MovieTweetings fixed 200K snapshot
+Repository: https://github.com/sidooms/MovieTweetings
+Snapshot path: snapshots/200K
+Pinned revision: 44c525d0c766944910686c60697203cda39305d6
+Commit date: 2021-11-24T01:56:23Z
+Data files: movies.dat, ratings.dat
+users.dat omitted because it maps anonymous IDs to Twitter IDs and is not needed.
